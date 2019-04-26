@@ -1,0 +1,12 @@
+name: BauServer
+version: 1.0
+main: de.daniel.bauserver.BauServer
+
+commands:
+  projects:
+    aliases: [projekte]
+  project:
+    aliases: [projekt]
+  setspawn:
+  spawn:
+  color:
